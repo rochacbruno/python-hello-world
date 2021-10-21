@@ -1,0 +1,7 @@
+# Better teminal
+ipython
+
+# Debugging
+ipdb
+devtools[pygments]
+
